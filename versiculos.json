@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "texto": "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida.",
+    "referencia": "Proverbios 4:23",
+    "esFavorita": false
+  },
+  {
+    "id": 2,
+    "texto": "Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora.",
+    "referencia": "Eclesiastés 3:1",
+    "esFavorita": false
+  }
+]
