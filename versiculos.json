@@ -1,14 +1,1310 @@
 [
   {
     "id": 1,
-    "texto": "michon, guarda tu corazón; porque de él mana la vida.",
+    "texto": "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida.",
     "referencia": "Proverbios 4:23",
     "esFavorita": false
   },
   {
-    "id": 256,
+    "id": 2,
     "texto": "Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora.",
     "referencia": "Eclesiastés 3:1",
+    "esFavorita": false
+  },
+  {
+    "id": 3,
+    "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras.",
+    "referencia": "Mateo 5:16",
+    "esFavorita": false
+  },
+  {
+    "id": 4,
+    "texto": "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento.",
+    "referencia": "Romanos 12:2",
+    "esFavorita": false
+  },
+  {
+    "id": 5,
+    "texto": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
+    "referencia": "Salmos 119:105",
+    "esFavorita": false
+  },
+  {
+    "id": 6,
+    "texto": "Estad siempre gozosos. Orad sin cesar. Dad gracias en todo.",
+    "referencia": "1 Tesalonicenses 5:16-18",
+    "esFavorita": false
+  },
+  {
+    "id": 7,
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia.",
+    "referencia": "Proverbios 3:5",
+    "esFavorita": false
+  },
+  {
+    "id": 8,
+    "texto": "Los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas.",
+    "referencia": "Isaías 40:31",
+    "esFavorita": false
+  },
+  {
+    "id": 9,
+    "texto": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor.",
+    "referencia": "Proverbios 15:1",
+    "esFavorita": false
+  },
+  {
+    "id": 10,
+    "texto": "Así que, en todo, tratad a los demás como queréis que ellos os traten.",
+    "referencia": "Mateo 7:12",
+    "esFavorita": false
+  },
+  {
+    "id": 11,
+    "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien.",
+    "referencia": "Romanos 8:28",
+    "esFavorita": false
+  },
+  {
+    "id": 12,
+    "texto": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza.",
+    "referencia": "Gálatas 5:22-23",
+    "esFavorita": false
+  },
+  {
+    "id": 13,
+    "texto": "Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros.",
+    "referencia": "Efesios 4:32",
+    "esFavorita": false
+  },
+  {
+    "id": 14,
+    "texto": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
+    "referencia": "Proverbios 16:3",
+    "esFavorita": false
+  },
+  {
+    "id": 15,
+    "texto": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
+    "referencia": "1 Pedro 5:7",
+    "esFavorita": false
+  },
+  {
+    "id": 16,
+    "texto": "Cercano está Jehová a los quebrantados de corazón.",
+    "referencia": "Salmos 34:18",
+    "esFavorita": false
+  },
+  {
+    "id": 17,
+    "texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "referencia": "Mateo 11:28",
+    "esFavorita": false
+  },
+  {
+    "id": 18,
+    "texto": "Todo lo puedo en Cristo que me fortalece.",
+    "referencia": "Filipenses 4:13",
+    "esFavorita": false
+  },
+  {
+    "id": 19,
+    "texto": "No te desampararé, ni te dejaré.",
+    "referencia": "Hebreos 13:5",
+    "esFavorita": false
+  },
+  {
+    "id": 20,
+    "texto": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
+    "referencia": "Romanos 12:12",
+    "esFavorita": false
+  },
+  {
+    "id": 21,
+    "texto": "El alma generosa será prosperada; y el que saciare, él también será saciado.",
+    "referencia": "Proverbios 11:25",
+    "esFavorita": false
+  },
+  {
+    "id": 22,
+    "texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "referencia": "Mateo 6:33",
+    "esFavorita": false
+  },
+  {
+    "id": 23,
+    "texto": "Y el Dios de esperanza os llene de todo gozo y paz en el creer.",
+    "referencia": "Romanos 15:13",
+    "esFavorita": false
+  },
+  {
+    "id": 24,
+    "texto": "No nos cansemos, pues, de hacer el bien; porque a su tiempo cosecharemos, si no desmayamos.",
+    "referencia": "Gálatas 6:9",
+    "esFavorita": false
+  },
+  {
+    "id": 25,
+    "texto": "Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+    "referencia": "Proverbios 3:6",
+    "esFavorita": false
+  },
+  {
+    "id": 26,
+    "texto": "Por lo demás, hermanos míos, fortaleceos en el Señor y en el poder de su fuerza.",
+    "referencia": "Efesios 6:10",
+    "esFavorita": false
+  },
+  {
+    "id": 27,
+    "texto": "Deléitate a sí mismo en Jehová, y él te concederá las peticiones de tu corazón.",
+    "referencia": "Salmos 37:4",
+    "esFavorita": false
+  },
+  {
+    "id": 28,
+    "texto": "Todos los días del afligido son difíciles, pero el de corazón contento tiene un banquete continuo.",
+    "referencia": "Proverbios 15:15",
+    "esFavorita": false
+  },
+  {
+    "id": 29,
+    "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios.",
+    "referencia": "Isaías 41:10",
+    "esFavorita": false
+  },
+  {
+    "id": 30,
+    "texto": "Si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres.",
+    "referencia": "Romanos 12:18",
+    "esFavorita": false
+  },
+  {
+    "id": 31,
+    "texto": "La sabiduría es la principal cosa; adquiere sabiduría, y con todos tus bienes adquiere entendimiento.",
+    "referencia": "Proverbios 4:7",
+    "esFavorita": false
+  },
+  {
+    "id": 32,
+    "texto": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego.",
+    "referencia": "Filipenses 4:6",
+    "esFavorita": false
+  },
+  {
+    "id": 33,
+    "texto": "Echa sobre Jehová tu carga, y él te sustentará; no dejará para siempre caído al justo.",
+    "referencia": "Salmos 55:22",
+    "esFavorita": false
+  },
+  {
+    "id": 34,
+    "texto": "Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios.",
+    "referencia": "Mateo 5:9",
+    "esFavorita": false
+  },
+  {
+    "id": 35,
+    "texto": "El temor de Jehová es el principio de la sabiduría.",
+    "referencia": "Proverbios 1:7",
+    "esFavorita": false
+  },
+  {
+    "id": 36,
+    "texto": "Deléitate a sí mismo en Jehová, y él te concederá las peticiones de tu corazón.",
+    "referencia": "Salmos 37:4",
+    "esFavorita": false
+  },
+  {
+    "id": 37,
+    "texto": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres.",
+    "referencia": "Colosenses 3:23",
+    "esFavorita": false
+  },
+  {
+    "id": 38,
+    "texto": "Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.",
+    "referencia": "Romanos 6:23",
+    "esFavorita": false
+  },
+  {
+    "id": 39,
+    "texto": "Todas vuestras cosas sean hechas con amor.",
+    "referencia": "1 Corintios 16:14",
+    "esFavorita": false
+  },
+  {
+    "id": 40,
+    "texto": "Prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.",
+    "referencia": "Filipenses 3:14",
+    "esFavorita": false
+  },
+  {
+    "id": 41,
+    "texto": "Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+    "referencia": "1 Tesalonicenses 5:18",
+    "esFavorita": false
+  },
+  {
+    "id": 42,
+    "texto": "Porque habiendo conocido a Dios, no le glorificaron como a Dios, ni le dieron gracias.",
+    "referencia": "Romanos 1:21",
+    "esFavorita": false
+  },
+  {
+    "id": 43,
+    "texto": "Estando arraigados y sobreedificados en él, y confirmados en la fe, así como habéis aprendido, abundando en acción de gracias.",
+    "referencia": "Colosenses 2:7",
+    "esFavorita": false
+  },
+  {
+    "id": 44,
+    "texto": "Siempre doy gracias a mi Dios por vosotros, por la gracia de Dios que os fue dada en Cristo Jesús.",
+    "referencia": "1 Corintios 1:4",
+    "esFavorita": false
+  },
+  {
+    "id": 45,
+    "texto": "El que come, para Jehová come; porque da gracias a Dios; y el que no come, para Jehová no come, y da gracias a Dios.",
+    "referencia": "Romanos 14:6",
+    "esFavorita": false
+  },
+  {
+    "id": 46,
+    "texto": "Perseverad en la oración, velando en ella con acción de gracias.",
+    "referencia": "Colosenses 4:2",
+    "esFavorita": false
+  },
+  {
+    "id": 47,
+    "texto": "Siempre debemos dar gracias a Dios por vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo.",
+    "referencia": "2 Tesalonicenses 1:3",
+    "esFavorita": false
+  },
+  {
+    "id": 48,
+    "texto": "Con Cristo estoy juntamente crucificado, y vivo, no ya yo, sino que vive en mí Cristo; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.",
+    "referencia": "Gálatas 2:20",
+    "esFavorita": false
+  },
+  {
+    "id": 49,
+    "texto": "Por lo cual asimismo padezco esto; pero no me avergüenzo, porque yo sé a quién he creído, y estoy seguro que es poderoso para guardar mi depósito para aquel día.",
+    "referencia": "2 Timoteo 1:12",
+    "esFavorita": false
+  },
+  {
+    "id": 50,
+    "texto": "Confía en Jehová y haz el bien; habitarás en la tierra y te alimentarás de la verdad.",
+    "referencia": "Salmos 37:3",
+    "esFavorita": false
+  },
+  {
+    "id": 51,
+    "texto": "Que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo.",
+    "referencia": "Romanos 10:9",
+    "esFavorita": false
+  },
+  {
+    "id": 52,
+    "texto": "Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.",
+    "referencia": "Santiago 4:7",
+    "esFavorita": false
+  },
+  {
+    "id": 53,
+    "texto": "Mas nuestra ciudadanía está en los cielos, de donde también esperamos al Salvador, al Señor Jesucristo.",
+    "referencia": "Filipenses 3:20",
+    "esFavorita": false
+  },
+  {
+    "id": 54,
+    "texto": "Porque tengo por cierto que las aflicciones del tiempo presente no son comparables con la gloria que en nosotros ha de manifestarse.",
+    "referencia": "Romanos 8:18",
+    "esFavorita": false
+  },
+  {
+    "id": 55,
+    "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien; esto es, a los que conforme a su propósito son llamados.",
+    "referencia": "Romanos 8:28",
+    "esFavorita": false
+  },
+  {
+    "id": 56,
+    "texto": "El da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.",
+    "referencia": "Isaías 40:29",
+    "esFavorita": false
+  },
+  {
+    "id": 57,
+    "texto": "Venid luego, dice Jehová, y estemos a cuenta; si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como lana.",
+    "referencia": "Isaías 1:18",
+    "esFavorita": false
+  },
+  {
+    "id": 58,
+    "texto": "Por cuanto todos pecaron y están destituidos de la gloria de Dios, siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús.",
+    "referencia": "Romanos 3:23-24",
+    "esFavorita": false
+  },
+  {
+    "id": 59,
+    "texto": "Vestíos, pues, como escogidos de Dios, santos y amados, de entrañable misericordia, de benignidad, de humildad, de mansedumbre, de paciencia.",
+    "referencia": "Colosenses 3:12",
+    "esFavorita": false
+  },
+  {
+    "id": 60,
+    "texto": "Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado.",
+    "referencia": "Romanos 5:5",
+    "esFavorita": false
+  },
+  {
+    "id": 61,
+    "texto": "Te alabaré; porque formidables, maravillosas son tus obras.",
+    "referencia": "Salmos 139:14",
+    "esFavorita": false
+  },
+  {
+    "id": 62,
+    "texto": "En mi corazón he guardado tus dichos, para no pecar contra ti.",
+    "referencia": "Salmos 119:11",
+    "esFavorita": false
+  },
+  {
+    "id": 63,
+    "texto": "La paz os dejo, mi paz os doy; no os la doy como el mundo la da.",
+    "referencia": "Juan 14:27",
+    "esFavorita": false
+  },
+  {
+    "id": 64,
+    "texto": "Porque por fe andamos, no por vista.",
+    "referencia": "2 Corintios 5:7",
+    "esFavorita": false
+  },
+  {
+    "id": 65,
+    "texto": "Porque un momento será su ira; pero su favor dura toda la vida; por la noche durará el lloro, y a la mañana vendrá la alegría.",
+    "referencia": "Salmos 30:5",
+    "esFavorita": false
+  },
+  {
+    "id": 66,
+    "texto": "Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra.",
+    "referencia": "Salmos 121:1-2",
+    "esFavorita": false
+  },
+  {
+    "id": 67,
+    "texto": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
+    "referencia": "Salmos 118:24",
+    "esFavorita": false
+  },
+  {
+    "id": 68,
+    "texto": "Por el camino de tus mandamientos correré, pues tú ensancharás mi corazón.",
+    "referencia": "Salmos 119:32",
+    "esFavorita": false
+  },
+  {
+    "id": 69,
+    "texto": "Entrad por sus puertas con acción de gracias, por sus atrios con alabanza; alabadle, bendecid su nombre.",
+    "referencia": "Salmos 100:4",
+    "esFavorita": false
+  },
+  {
+    "id": 70,
+    "texto": "Porque mejor es un día en tus atrios que mil fuera de ellos.Escogería antes estar a la puerta de la casa de mi Dios, Que habitar en las moradas de maldad.",
+    "referencia": "Salmos 84:10",
+    "esFavorita": false
+  },
+  {
+    "id": 71,
+    "texto": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+    "referencia": "Salmos 107:1",
+    "esFavorita": false
+  },
+  {
+    "id": 72,
+    "texto": "Dando siempre gracias por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo.",
+    "referencia": "Efesios 5:20",
+    "esFavorita": false
+  },
+  {
+    "id": 73,
+    "texto": "Vengamos ante su presencia con alabanza; aclamémosle con cánticos.",
+    "referencia": "Salmos 95:2",
+    "esFavorita": false
+  },
+  {
+    "id": 74,
+    "texto": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+    "referencia": "Salmos 136:1",
+    "esFavorita": false
+  },
+  {
+    "id": 75,
+    "texto": "Para que mi gloria cante y no esté callada. Jehová, Dios mío, a ti te alabaré para siempre.",
+    "referencia": "Salmos 30:12",
+    "esFavorita": false
+  },
+  {
+    "id": 76,
+    "texto": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+    "referencia": "Salmos 118:1",
+    "esFavorita": false
+  },
+  {
+    "id": 77,
+    "texto": "Te alabaré, Jehová, con todo mi corazón; contaré todas tus maravillas.",
+    "referencia": "Salmos 9:1",
+    "esFavorita": false
+  },
+  {
+    "id": 78,
+    "texto": "Alabad al Dios de los cielos; porque para siempre es su misericordia.",
+    "referencia": "Salmos 136:26",
+    "esFavorita": false
+  },
+  {
+    "id": 79,
+    "texto": "Alabaré el nombre de Dios con canción, y lo exaltaré con alabanza.",
+    "referencia": "Salmos 69:30",
+    "esFavorita": false
+  },
+  {
+    "id": 80,
+    "texto": "Así que, ofrezcamos siempre a Dios, por medio de él, sacrificio de alabanza, es decir, el fruto de labios que confiesan su nombre.",
+    "referencia": "Hebreos 13:15",
+    "esFavorita": false
+  },
+  {
+    "id": 81,
+    "texto": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+    "referencia": "1 Crónicas 16:34",
+    "esFavorita": false
+  },
+  {
+    "id": 82,
+    "texto": "Venid, aclamemos alegremente a Jehová; cantemos con júbilo a la roca de nuestra salvación.",
+    "referencia": "Salmos 95:1-2",
+    "esFavorita": false
+  },
+  {
+    "id": 83,
+    "texto": "Te alabarán, Jehová, todos los reyes de la tierra, y cantarán de tus caminos; porque grande es Jehová.",
+    "referencia": "Salmos 145:10",
+    "esFavorita": false
+  },
+  {
+    "id": 84,
+    "texto": "Con gozo dando gracias al Padre que nos hizo aptos para participar de la herencia de los santos en luz.",
+    "referencia": "Colosenses 1:12",
+    "esFavorita": false
+  },
+  {
+    "id": 85,
+    "texto": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios.",
+    "referencia": "Salmos 103:2",
+    "esFavorita": false
+  },
+  {
+    "id": 86,
+    "texto": "¡Gracias a Dios por su don inefable!",
+    "referencia": "2 Corintios 9:15",
+    "esFavorita": false
+  },
+  {
+    "id": 87,
+    "texto": "Alabaré el nombre de Dios con canción, y lo exaltaré con acción de gracias.",
+    "referencia": "Salmos 69:30",
+    "esFavorita": false
+  },
+  {
+    "id": 88,
+    "texto": "Te ofreceré sacrificio de acción de gracias, e invocaré el nombre de Jehová.",
+    "referencia": "Salmos 116:17",
+    "esFavorita": false
+  },
+  {
+    "id": 89,
+    "texto": "Bueno es alabar a Jehová, y cantar salmos a tu nombre, oh Altísimo.",
+    "referencia": "Salmos 92:1",
+    "esFavorita": false
+  },
+  {
+    "id": 90,
+    "texto": "Ahora, Dios nuestro, te damos gracias y loores a tu nombre.",
+    "referencia": "1 Crónicas 29:13",
+    "esFavorita": false
+  },
+  {
+    "id": 91,
+    "texto": "Publicarán la memoria de tu grande bondad, y cantarán tu justicia.",
+    "referencia": "Salmos 145:7",
+    "esFavorita": false
+  },
+  {
+    "id": 92,
+    "texto": "Porque Jehová es bueno; para siempre es su misericordia, y su verdad por todas las generaciones.",
+    "referencia": "Salmos 100:5",
+    "esFavorita": false
+  },
+  {
+    "id": 93,
+    "texto": "Mas tú, Señor, eres Dios misericordioso y clemente, lento para la ira y grande en misericordia y verdad.",
+    "referencia": "Salmos 86:15",
+    "esFavorita": false
+  },
+  {
+    "id": 94,
+    "texto": "Jesucristo es el mismo ayer, y hoy, y por los siglos.",
+    "referencia": "Hebreos 13:8",
+    "esFavorita": false
+  },
+  {
+    "id": 95,
+    "texto": "Este es mi consuelo en mi aflicción: que tu palabra me ha vivificado.",
+    "referencia": "Salmos 119:50",
+    "esFavorita": false
+  },
+  {
+    "id": 96,
+    "texto": "Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.",
+    "referencia": "Romanos 5:8",
+    "esFavorita": false
+  },
+  {
+    "id": 97,
+    "texto": "Alabad al Dios de los cielos; porque para siempre es su misericordia.",
+    "referencia": "Salmos 136:26",
+    "esFavorita": false
+  },
+  {
+    "id": 98,
+    "texto": "Hazme oír por la mañana tu misericordia; porque en ti he confiado; muéstrame el camino por donde ande, porque a ti he elevado mi alma.",
+    "referencia": "Salmos 143:8",
+    "esFavorita": false
+  },
+  {
+    "id": 99,
+    "texto": "¡Oh Jehová! cuán preciosa es tu misericordia; por eso los hijos de los hombres se refugian bajo la sombra de tus alas.",
+    "referencia": "Salmos 36:7",
+    "esFavorita": false
+  },
+  {
+    "id": 100,
+    "texto": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+    "referencia": "Hebreos 11:1",
+    "esFavorita": false
+  },
+  {
+    "id": 101,
+    "texto": "Así que la fe es por el oír, y el oír, por la palabra de Dios.",
+    "referencia": "Romanos 10:17",
+    "esFavorita": false
+  },
+  {
+    "id": 102,
+    "texto": "Porque por fe andamos, no por vista.",
+    "referencia": "2 Corintios 5:7",
+    "esFavorita": false
+  },
+  {
+    "id": 103,
+    "texto": "Y les dijo: Por vuestra incredulidad; porque de cierto os digo que si tuviereis fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible.",
+    "referencia": "Mateo 17:20",
+    "esFavorita": false
+  },
+  {
+    "id": 104,
+    "texto": "Pero pida con fe, no dudando nada; porque el que duda es semejante a la onda del mar, que es arrastrada por el viento y echada de una parte a otra.",
+    "referencia": "Santiago 1:6",
+    "esFavorita": false
+  },
+  {
+    "id": 105,
+    "texto": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
+    "referencia": "Hebreos 11:6",
+    "esFavorita": false
+  },
+  {
+    "id": 106,
+    "texto": "A quien amáis sin haberle visto; en quien creyendo, aunque ahora no lo veáis, os alegráis con gozo inefable y lleno de gloria; obteniendo el fin de vuestra fe, que es la salvación de vuestras almas.",
+    "referencia": "1 Pedro 1:8-9",
+    "esFavorita": false
+  },
+  {
+    "id": 107,
+    "texto": "Porque en el evangelio la justicia de Dios se revela por fe y para fe; como está escrito: Mas el justo por la fe vivirá.",
+    "referencia": "Romanos 1:17",
+    "esFavorita": false
+  },
+  {
+    "id": 108,
+    "texto": "Encomienda a Jehová tu camino, y confía en él; y él hará.",
+    "referencia": "Salmos 37:5",
+    "esFavorita": false
+  },
+  {
+    "id": 109,
+    "texto": "Y todo lo que pidiereis en oración, creyendo, lo recibiréis.",
+    "referencia": "Mateo 21:22",
+    "esFavorita": false
+  },
+  {
+    "id": 110,
+    "texto": "Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe.",
+    "referencia": "1 Juan 5:4",
+    "esFavorita": false
+  },
+  {
+    "id": 111,
+    "texto": "En el día que temo, yo en ti confío.",
+    "referencia": "Salmos 56:3",
+    "esFavorita": false
+  },
+  {
+    "id": 112,
+    "texto": "Porque nosotros por el Espíritu aguardamos por fe la esperanza de la justicia.",
+    "referencia": "Gálatas 5:5",
+    "esFavorita": false
+  },
+  {
+    "id": 113,
+    "texto": "Sepultados con él en el bautismo, en el cual fuisteis también resucitados con él, mediante la fe en el poder de Dios, que le levantó de los muertos.",
+    "referencia": "Colosenses 2:12",
+    "esFavorita": false
+  },
+  {
+    "id": 114,
+    "texto": "Y el Señor dijo: Si tuvierais fe como un grano de mostaza, podríais decir a este sicómoro: Desarráigate y plántate en el mar; y os obedecería.",
+    "referencia": "Lucas 17:6",
+    "esFavorita": false
+  },
+  {
+    "id": 115,
+    "texto": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios.",
+    "referencia": "Efesios 2:8",
+    "esFavorita": false
+  },
+  {
+    "id": 116,
+    "texto": "Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo.",
+    "referencia": "Romanos 5:1",
+    "esFavorita": false
+  },
+  {
+    "id": 117,
+    "texto": "Pelea la buena batalla de la fe; echa mano de la vida eterna, a la cual así mismo fuiste llamado.",
+    "referencia": "1 Timoteo 6:12",
+    "esFavorita": false
+  },
+  {
+    "id": 118,
+    "texto": "Entonces les tocó los ojos, diciendo: Según vuestra fe os sea hecho.",
+    "referencia": "Mateo 9:29",
+    "esFavorita": false
+  },
+  {
+    "id": 119,
+    "texto": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+    "referencia": "Hebreos 11:1",
+    "esFavorita": false
+  },
+  {
+    "id": 120,
+    "texto": "Pero el que duda es condenado si come, porque no lo hace con fe; y todo lo que no proviene de fe, es pecado.",
+    "referencia": "Romanos 14:23",
+    "esFavorita": false
+  },
+  {
+    "id": 121,
+    "texto": "Y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe.",
+    "referencia": "Filipenses 3:9",
+    "esFavorita": false
+  },
+  {
+    "id": 122,
+    "texto": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
+    "referencia": "Hebreos 11:6",
+    "esFavorita": false
+  },
+  {
+    "id": 123,
+    "texto": "Para que, sometida a prueba vuestra fe, mucho más preciosa que el oro, el cual perece, sea hallada en alabanza, gloria y honra, cuando sea manifestado Jesucristo.",
+    "referencia": "1 Pedro 1:7",
+    "esFavorita": false
+  },
+  {
+    "id": 124,
+    "texto": "Y manifiesto es que por la ley ninguno se justifica delante de Dios, porque el justo por la fe vivirá.",
+    "referencia": "Gálatas 3:11",
+    "esFavorita": false
+  },
+  {
+    "id": 125,
+    "texto": "Pero Jesús, oyendo lo que se decía, respondió: No temas; cree solamente, y será sana.",
+    "referencia": "Lucas 8:50",
+    "esFavorita": false
+  },
+  {
+    "id": 126,
+    "texto": "Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno.",
+    "referencia": "Efesios 6:16",
+    "esFavorita": false
+  },
+  {
+    "id": 127,
+    "texto": "Pero teniendo el mismo espíritu de fe, conforme a lo que está escrito: Creí, por lo cual hablé, nosotros también creemos, por lo cual también hablamos.",
+    "referencia": "2 Corintios 4:13",
+    "esFavorita": false
+  },
+  {
+    "id": 128,
+    "texto": "¿Quién es el que vence al mundo, sino aquel que cree que Jesús es el Hijo de Dios?",
+    "referencia": "1 Juan 5:5",
+    "esFavorita": false
+  },
+  {
+    "id": 129,
+    "texto": "Porque todos sois hijos de Dios por la fe en Cristo Jesús.",
+    "referencia": "Gálatas 3:26",
+    "esFavorita": false
+  },
+  {
+    "id": 130,
+    "texto": "Por la fe, Raab la ramera no pereció con los desobedientes, habiendo recibido a los espías en paz.",
+    "referencia": "Hebreos 11:31",
+    "esFavorita": false
+  },
+  {
+    "id": 131,
+    "texto": "Respondiendo Jesús, les dijo: De cierto os digo que si tuviereis fe y no dudareis, no solo haréis esto de la higuera, sino que si a este monte dijereis: Pásate de aquí allá, será hecho.",
+    "referencia": "Mateo 21:21",
+    "esFavorita": false
+  },
+  {
+    "id": 132,
+    "texto": "Si en verdad permanecéis fundados y firmes en la fe, y sin moveros de la esperanza del evangelio que habéis oído.",
+    "referencia": "Colosenses 1:23",
+    "esFavorita": false
+  },
+  {
+    "id": 133,
+    "texto": "Y Jesús le dijo: Ve, tu fe te ha salvado. Y enseguida vio, y seguía a Jesús en el camino.",
+    "referencia": "Marcos 10:52",
+    "esFavorita": false
+  },
+  {
+    "id": 134,
+    "texto": "Porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión, sino la fe que actúa por el amor.",
+    "referencia": "Gálatas 5:6",
+    "esFavorita": false
+  },
+  {
+    "id": 135,
+    "texto": "Jehová lo sustentará sobre el lecho del dolor; confortarás sus huesos en su enfermedad.",
+    "referencia": "Salmos 41:3",
+    "esFavorita": false
+  },
+  {
+    "id": 136,
+    "texto": "Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.",
+    "referencia": "Isaías 53:5",
+    "esFavorita": false
+  },
+  {
+    "id": 137,
+    "texto": "Y recorría Jesús todas las ciudades y aldeas, enseñando en las sinagogas de ellas, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo.",
+    "referencia": "Mateo 9:35",
+    "esFavorita": false
+  },
+  {
+    "id": 138,
+    "texto": "El Espíritu del Señor está sobre mí; por cuanto me ha ungido para dar buenas nuevas a los pobres; me ha enviado a sanar a los quebrantados de corazón, a pregonar libertad a los cautivos y vista a los ciegos.",
+    "referencia": "Lucas 4:18",
+    "esFavorita": false
+  },
+  {
+    "id": 139,
+    "texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "referencia": "Mateo 11:28",
+    "esFavorita": false
+  },
+  {
+    "id": 140,
+    "texto": "Y si el Espíritu de Aquel que levantó de los muertos a Jesús mora en vosotros, el que levantó de los muertos a Cristo Jesús, vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros.",
+    "referencia": "Romanos 8:11",
+    "esFavorita": false
+  },
+  {
+    "id": 141,
+    "texto": "Jehová lo sustentará sobre el lecho del dolor; confortarás sus huesos en su enfermedad.",
+    "referencia": "Salmos 41:3",
+    "esFavorita": false
+  },
+  {
+    "id": 142,
+    "texto": "Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.",
+    "referencia": "Isaías 53:5",
+    "esFavorita": false
+  },
+  {
+    "id": 143,
+    "texto": "Y recorría Jesús todas las ciudades y aldeas, enseñando en las sinagogas de ellas, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo.",
+    "referencia": "Mateo 9:35",
+    "esFavorita": false
+  },
+  {
+    "id": 144,
+    "texto": "El Espíritu del Señor está sobre mí; por cuanto me ha ungido para dar buenas nuevas a los pobres; me ha enviado a sanar a los quebrantados de corazón, a pregonar libertad a los cautivos y vista a los ciegos.",
+    "referencia": "Lucas 4:18",
+    "esFavorita": false
+  },
+  {
+    "id": 145,
+    "texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "referencia": "Mateo 11:28",
+    "esFavorita": false
+  },
+  {
+    "id": 146,
+    "texto": "Y si el Espíritu de Aquel que levantó de los muertos a Jesús mora en vosotros, el que levantó de los muertos a Cristo Jesús, vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros.",
+    "referencia": "Romanos 8:11",
+    "esFavorita": false
+  },
+  {
+    "id": 147,
+    "texto": "Él sana a los quebrantados de corazón, y venda sus heridas.",
+    "referencia": "Salmos 147:3",
+    "esFavorita": false
+  },
+  {
+    "id": 148,
+    "texto": "Entonces nacerá tu luz como el alba, y tu sanidad se hará pronto; e irá tu justicia delante de ti, y la gloria de Jehová será tu retaguardia.",
+    "referencia": "Isaías 58:8",
+    "esFavorita": false
+  },
+  {
+    "id": 149,
+    "texto": "Pero Jesús, oyendo lo que se decía, respondió: No temas; cree solamente, y será sana.",
+    "referencia": "Lucas 8:50",
+    "esFavorita": false
+  },
+  {
+    "id": 150,
+    "texto": "Ten misericordia de mí, oh Jehová, porque estoy débil; sana, oh Jehová, mis huesos.",
+    "referencia": "Salmos 6:2",
+    "esFavorita": false
+  },
+  {
+    "id": 151,
+    "texto": "Porque yo haré restaurar tu salud, y curaré tus heridas, dice Jehová.",
+    "referencia": "Jeremías 30:17",
+    "esFavorita": false
+  },
+  {
+    "id": 152,
+    "texto": "Y se difundió su fama por toda Siria; y le trajeron todos los que tenían dolencias, los afligidos de diversas enfermedades y tormentos, y a los endemoniados, lunáticos y paralíticos; y los sanó.",
+    "referencia": "Mateo 4:24",
+    "esFavorita": false
+  },
+  {
+    "id": 153,
+    "texto": "He visto sus caminos, y los sanaré; y los pastorearé, y les daré consuelo a ellos y a los que de ellos lloran.",
+    "referencia": "Isaías 57:18",
+    "esFavorita": false
+  },
+  {
+    "id": 154,
+    "texto": "Y llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera, y para sanar toda enfermedad y toda dolencia.",
+    "referencia": "Mateo 10:1",
+    "esFavorita": false
+  },
+  {
+    "id": 155,
+    "texto": "Después le halló Jesús en el templo y le dijo: Mira, has sido sanado; no peques más, para que no te venga alguna cosa peor.",
+    "referencia": "Juan 5:14",
+    "esFavorita": false
+  },
+  {
+    "id": 156,
+    "texto": "Ve y di a Ezequías: Jehová, el Dios de David tu padre, dice así: He oído tu oración, y he visto tus lágrimas; he aquí, que yo te sano.",
+    "referencia": "2 Reyes 20:5",
+    "esFavorita": false
+  },
+  {
+    "id": 157,
+    "texto": "Y por la fe en su nombre, a este que vosotros veis y conocéis, le ha fortalecido su nombre; y la fe que es por él ha dado a este sano, en presencia de todos vosotros.",
+    "referencia": "Hechos 3:16",
+    "esFavorita": false
+  },
+  {
+    "id": 158,
+    "texto": "Pero cuando la gente lo supo, le siguió; y él les recibió, y les hablaba del reino de Dios, y sanaba a los que necesitaban curación.",
+    "referencia": "Lucas 9:11",
+    "esFavorita": false
+  },
+  {
+    "id": 159,
+    "texto": "Hijo mío, está atento a mis palabras; inclina tu oído a mis razones. No se aparten de tus ojos; guárdalas en medio de tu corazón; porque son vida a los que las hallan, y medicina a todo su cuerpo.",
+    "referencia": "Proverbios 4:20-22",
+    "esFavorita": false
+  },
+  {
+    "id": 160,
+    "texto": "Y vinieron a él multitudes que tenían consigo cojos, ciegos, mudos, mancos y otros muchos; y los pusieron a los pies de Jesús, y los sanó.",
+    "referencia": "Mateo 15:30",
+    "esFavorita": false
+  },
+  {
+    "id": 161,
+    "texto": "Mas a Jehová vuestro Dios serviréis, y él bendecirá tu pan y tus aguas; y yo quitaré toda enfermedad de en medio de ti.",
+    "referencia": "Éxodo 23:25",
+    "esFavorita": false
+  },
+  {
+    "id": 162,
+    "texto": "Él sana a los quebrantados de corazón, y venda sus heridas.",
+    "referencia": "Salmos 147:3",
+    "esFavorita": false
+  },
+  {
+    "id": 163,
+    "texto": "Oh Señor, por estas cosas viven los hombres, y en todas ellas está la vida de mi espíritu; así que, me sanarás y me harás vivir.",
+    "referencia": "Isaías 38:16",
+    "esFavorita": false
+  },
+  {
+    "id": 164,
+    "texto": "He aquí que yo les traigo sanidad y medicina, y los sanaré y les manifestaré abundancia de paz y de verdad.",
+    "referencia": "Jeremías 33:6",
+    "esFavorita": false
+  },
+  {
+    "id": 165,
+    "texto": "Y al salir Jesús, vio una gran multitud, y tuvo compasión de ellos, y sanó a sus enfermos.",
+    "referencia": "Mateo 14:14",
+    "esFavorita": false
+  },
+  {
+    "id": 166,
+    "texto": "Jehová Dios mío, a ti clamé, y me sanaste.",
+    "referencia": "Salmos 30:2",
+    "esFavorita": false
+  },
+  {
+    "id": 167,
+    "texto": "Y he aquí, le trajeron un paralítico tendido sobre una cama; y viendo Jesús la fe de ellos, dijo al paralítico: Ten ánimo, hijo; tus pecados te son perdonados.",
+    "referencia": "Mateo 9:2",
+    "esFavorita": false
+  },
+  {
+    "id": 168,
+    "texto": "Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido.",
+    "referencia": "Isaías 53:4",
+    "esFavorita": false
+  },
+  {
+    "id": 169,
+    "texto": "Entonces clamaron a Jehová en su angustia, y él los libró de sus aflicciones. Envió su palabra y los sanó, y los libró de su ruina.",
+    "referencia": "Salmos 107:19-20",
+    "esFavorita": false
+  },
+  {
+    "id": 170,
+    "texto": "Estoy enfermo de muerte; oh Jehová, vivifícame conforme a tu palabra.",
+    "referencia": "Salmos 119:107",
+    "esFavorita": false
+  },
+  {
+    "id": 171,
+    "texto": "Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia.",
+    "referencia": "Mateo 10:8",
+    "esFavorita": false
+  },
+  {
+    "id": 172,
+    "texto": "Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, les serán perdonados.",
+    "referencia": "Santiago 5:15",
+    "esFavorita": false
+  },
+  {
+    "id": 173,
+    "texto": "Jehová Dios mío, a ti clamé, y me sanaste.",
+    "referencia": "Salmos 30:2",
+    "esFavorita": false
+  },
+  {
+    "id": 174,
+    "texto": "Cuando Jesús oyó esto, dijo: Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella.",
+    "referencia": "Juan 11:4",
+    "esFavorita": false
+  },
+  {
+    "id": 175,
+    "texto": "Confesaos unos a otros vuestras ofensas, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.",
+    "referencia": "Santiago 5:16",
+    "esFavorita": false
+  },
+  {
+    "id": 176,
+    "texto": "Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre celestial. Mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas.",
+    "referencia": "Mateo 6:14-15",
+    "esFavorita": false
+  },
+  {
+    "id": 177,
+    "texto": "Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, así como Dios también os perdonó a vosotros en Cristo.",
+    "referencia": "Efesios 4:32",
+    "esFavorita": false
+  },
+  {
+    "id": 178,
+    "texto": "Soportándoos unos a otros y perdonándoos unos a otros, si alguno tuviera queja contra otro; de la manera que Cristo os perdonó, así también hacedlo vosotros.",
+    "referencia": "Colosenses 3:13",
+    "esFavorita": false
+  },
+  {
+    "id": 179,
+    "texto": "No juzguéis, y no seréis juzgados; no condenéis, y no seréis condenados; perdonad, y seréis perdonados.",
+    "referencia": "Lucas 6:37",
+    "esFavorita": false
+  },
+  {
+    "id": 180,
+    "texto": "Entonces Pedro, acercándose a él, dijo: Señor, ¿cuántas veces perdonaré a mi hermano que pegue contra mí? ¿Hasta siete? Jesús le dijo: No te digo hasta siete, sino aun hasta setenta veces siete.",
+    "referencia": "Mateo 18:21-22",
+    "esFavorita": false
+  },
+  {
+    "id": 181,
+    "texto": "Y cuando estéis orando, perdonad, si tenéis algo contra alguno; para que también vuestro Padre que está en los cielos os perdone a vosotros vuestras ofensas.",
+    "referencia": "Marcos 11:25",
+    "esFavorita": false
+  },
+  {
+    "id": 182,
+    "texto": "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados y limpiarnos de toda maldad.",
+    "referencia": "1 Juan 1:9",
+    "esFavorita": false
+  },
+  {
+    "id": 183,
+    "texto": "Si miras a los pecados, Señor, ¿quién podrá sostenerse? Mas en ti hay perdón, para que seas reverenciado.",
+    "referencia": "Salmos 130:3-4:",
+    "esFavorita": false
+  },
+  {
+    "id": 184,
+    "texto": "En quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia.",
+    "referencia": "Efesios 1:7",
+    "esFavorita": false
+  },
+  {
+    "id": 185,
+    "texto": "No devolviendo mal por mal, ni maldición por maldición, sino por el contrario, bendiciendo, sabiendo que fuisteis llamados para que heredaseis bendición.",
+    "referencia": "1 Pedro 3:9",
+    "esFavorita": false
+  },
+  {
+    "id": 186,
+    "texto": "Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él, perdonándoos todos los pecados.",
+    "referencia": "Colosenses 2:13",
+    "esFavorita": false
+  },
+  {
+    "id": 187,
+    "texto": "No juzguéis, para que no seáis juzgados; porque con el juicio con que juzgáis, seréis juzgados; y con la medida con que medís, os será medido.",
+    "referencia": "Mateo 7:1-2",
+    "esFavorita": false
+  },
+  {
+    "id": 188,
+    "texto": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia.",
+    "referencia": "Proverbios 28:13",
+    "esFavorita": false
+  },
+  {
+    "id": 189,
+    "texto": "Yo, yo soy el que borro tus rebeliones por amor de mí mismo, y no me acordaré de tus pecados.",
+    "referencia": "Isaías 43:25",
+    "esFavorita": false
+  },
+  {
+    "id": 190,
+    "texto": "Por tanto, os digo que todo pecado y blasfemia será perdonado a los hombres; mas la blasfemia contra el Espíritu no les será perdonada.",
+    "referencia": "Mateo 12:31",
+    "esFavorita": false
+  },
+  {
+    "id": 191,
+    "texto": "Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo.",
+    "referencia": "Gálatas 6:2",
+    "esFavorita": false
+  },
+  {
+    "id": 192,
+    "texto": "Amados, amémonos unos a otros; porque el amor es de Dios; y todo aquel que ama, es nacido de Dios y conoce a Dios.",
+    "referencia": "1 Juan 4:7",
+    "esFavorita": false
+  },
+  {
+    "id": 193,
+    "texto": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece; no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad; todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
+    "referencia": "1 Corintios 13:4-7",
+    "esFavorita": false
+  },
+  {
+    "id": 194,
+    "texto": "El amor no hace mal al prójimo; así que el cumplimiento de la ley es el amor.",
+    "referencia": "Romanos 13:10",
+    "esFavorita": false
+  },
+  {
+    "id": 195,
+    "texto": "Este es mi mandamiento: Que os améis unos a otros, como yo os he amado.",
+    "referencia": "Juan 15:12",
+    "esFavorita": false
+  },
+  {
+    "id": 196,
+    "texto": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley.",
+    "referencia": "Gálatas 5:22-23",
+    "esFavorita": false
+  },
+  {
+    "id": 197,
+    "texto": "Con toda humildad y mansedumbre, soportándoos con paciencia los unos a los otros en amor.",
+    "referencia": "Efesios 4:2",
+    "esFavorita": false
+  },
+  {
+    "id": 198,
+    "texto": "Y ante todo, tened entre vosotros ferviente amor; porque el amor cubrirá multitud de pecados.",
+    "referencia": "1 Pedro 4:8",
+    "esFavorita": false
+  },
+  {
+    "id": 199,
+    "texto": "Y sobre todas estas cosas vestíos de amor, que es el vínculo perfecto.",
+    "referencia": "Colosenses 3:14",
+    "esFavorita": false
+  },
+  {
+    "id": 200,
+    "texto": "El odio despierta rencillas; mas el amor cubrirá todas las faltas.",
+    "referencia": "Proverbios 10:12",
+    "esFavorita": false
+  },
+  {
+    "id": 201,
+    "texto": "Hijitos míos, no amemos de palabra ni de lengua, sino de hecho y en verdad.",
+    "referencia": "1 Juan 3:18",
+    "esFavorita": false
+  },
+  {
+    "id": 202,
+    "texto": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis unos a otros.",
+    "referencia": "Juan 13:34",
+    "esFavorita": false
+  },
+  {
+    "id": 203,
+    "texto": "Todas vuestras cosas sean hechas con amor.",
+    "referencia": "1 Corintios 16:14",
+    "esFavorita": false
+  },
+  {
+    "id": 204,
+    "texto": "Y andad en amor, así como también Cristo nos amó y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.",
+    "referencia": "Efesios 5:2",
+    "esFavorita": false
+  },
+  {
+    "id": 205,
+    "texto": "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia.",
+    "referencia": "Proverbios 17:17",
+    "esFavorita": false
+  },
+  {
+    "id": 206,
+    "texto": "Amados, si Dios así nos ha amado, debemos también nosotros amarnos unos a otros.",
+    "referencia": "1 Juan 4:11",
+    "esFavorita": false
+  },
+  {
+    "id": 207,
+    "texto": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo.",
+    "referencia": "Mateo 22:37-39",
+    "esFavorita": false
+  },
+  {
+    "id": 208,
+    "texto": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.",
+    "referencia": "1 Corintios 13:13",
+    "esFavorita": false
+  },
+  {
+    "id": 209,
+    "texto": "Si alguno dice: Yo amo a Dios, y aborrece a su hermano, es un mentiroso; pues el que no ama a su hermano, a quien ha visto, ¿cómo puede amar a Dios, a quien no ha visto?",
+    "referencia": "1 Juan 4:20",
+    "esFavorita": false
+  },
+  {
+    "id": 210,
+    "texto": "Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos.",
+    "referencia": "Juan 15:13",
+    "esFavorita": false
+  },
+  {
+    "id": 211,
+    "texto": "Pues este es el amor a Dios, que guardemos sus mandamientos; y sus mandamientos no son gravosos.",
+    "referencia": "1 Juan 5:3",
+    "esFavorita": false
+  },
+  {
+    "id": 212,
+    "texto": "Y esto pido en oración: que vuestro amor abunde aún más y más en conocimiento y en todo sentido.",
+    "referencia": "Filipenses 1:9",
+    "esFavorita": false
+  },
+  {
+    "id": 213,
+    "texto": "El amor sea sin fingimiento. Aborreced lo malo, seguid lo bueno.",
+    "referencia": "Romanos 12:9",
+    "esFavorita": false
+  },
+  {
+    "id": 214,
+    "texto": "Nadie ha visto jamás a Dios; si nos amamos unos a otros, Dios permanece en nosotros, y su amor se ha perfeccionado en nosotros.",
+    "referencia": "1 Juan 4:12",
+    "esFavorita": false
+  },
+  {
+    "id": 215,
+    "texto": "Habiendo purificado vuestras almas por la obediencia a la verdad, mediante el Espíritu, para el amor fraternal no fingido, amaos unos a otros ardientemente de corazón puro.",
+    "referencia": "1 Pedro 1:22",
+    "esFavorita": false
+  },
+  {
+    "id": 216,
+    "texto": "Vestíos, pues, como escogidos de Dios, santos y amados, de entrañable misericordia, de benignidad, de humildad, de mansedumbre, de paciencia; soportándoos unos a otros, y perdonándoos unos a otros. Y sobre todas estas cosas, vestíos de amor, que es el vínculo perfecto.",
+    "referencia": "Colosenses 3:12-14",
+    "esFavorita": false
+  },
+  {
+    "id": 217,
+    "texto": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen.",
+    "referencia": "Mateo 5:44",
+    "esFavorita": false
+  },
+  {
+    "id": 218,
+    "texto": "Y el Señor os haga crecer y abundar en amor unos para con otros y para con todos, así como también lo hacemos nosotros para con vosotros.",
+    "referencia": "1 Tesalonicenses 3:12",
     "esFavorita": false
   }
 ]
